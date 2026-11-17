@@ -1,6 +1,5 @@
 ---
-title: "Sarah Guillou Economist"
+title: "Sarah Guillou - Economist"
 ---
 
-This is my personal website. It describes my work as an economist.
-I am a PhD economist specialised on international and industrial economics. I do policy-oriented and empirical research dealing with the impact of policies on firms' competitiveness.
+This is my personal website. It describes my work as an economist. I am a PhD economist specialised on international and industrial economics. I do policy-oriented and empirical research dealing with the impact of policies on firms' competitiveness.
